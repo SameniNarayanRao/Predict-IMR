@@ -7,9 +7,9 @@ There are number of causes of infant mortality, including poor sanitation, poor 
 
 
 Content :
-•Problem Statement
-•Importing Python Libraries
-•Importing Data and Processing
+#•Problem Statement
+#•Importing Python Libraries
+#•Importing Data and Processing
 •Exploratory Data Analysis
 •Applying Lineaor Regression Model
 •Interpretation Model Coefficient
