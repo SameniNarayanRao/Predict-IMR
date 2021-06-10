@@ -16,4 +16,4 @@ Content :
 •Model Evaluation
 •Conclusion
 
-To check out my notebook, please click [here](https://github.com/SameniNarayanRao/Machine-Learning-Projects/blob/master/Market%20Basket%20Analysis%20.ipynb)
+To check out my notebook, please click [here](https://github.com/SameniNarayanRao/Predict_the_factors_contributing_to_decrease--IMR/blob/main/Predict%20IMR.ipynb)
